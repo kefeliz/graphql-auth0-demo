@@ -54,4 +54,5 @@ Visit http://localhost:3000 (or the port specified in your .env) to interact.
   - TypeScript
   - GraphQL
   - Auth0
-  - TaildWindCSS
+  - TailWindCSS
+  - Recharts
